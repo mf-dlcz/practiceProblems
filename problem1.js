@@ -83,12 +83,8 @@ const isValid = (s) => {
 
 console.log(isValid("(([]})"))
 
-
   /// ** Bonus:
   // replace all the || conditions with .includes()
   // **Hint: create an array with all opening brackets, and also all closing brackets
   // arr1 = ['[','(', '{']
   // same w/ closing for arr2
-}
-
-console.log(isValid("(([]})"))
